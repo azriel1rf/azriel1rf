@@ -3,7 +3,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on ... self-employed derivatives trader. (ex. data scientist)
 - 🌱 I’m currently learning ... C++, machine learning, game AI (game tree search, reinforcement learning, solving imperfect information game)
-- 👯 I’m looking to collaborate on ... [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) and more
+- 👯 I’m looking to collaborate on ... [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) and more. I'm a noob to OSS.
 - 💬 Ask me about ... Python, intermediate-level Data Structure and Algorithms
 - ⚡ Fun fact & Other activity: ... 
   - With two years of activity as a trader, my performance has not been well these months. I'm looking for a job in Japan.
