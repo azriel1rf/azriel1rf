@@ -1,6 +1,6 @@
 [![azriel1rf's GitHub stats](https://github-readme-stats.vercel.app/api?username=azriel1rf&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azriel1rf)](https://github.com/anuraghazra/github-readme-stats)
-- 🔭 I’m currently working on ... self-employed derivatives trader. (ex. data scientist)
+- 🔭 I’m currently working on ... between jobs (ex. data scientist)
 - 🌱 I’m currently learning ... C++, machine learning, game AI (game tree search, reinforcement learning, solving imperfect information game), CI/CD
 - 👯 I’m looking to collaborate on ... [HenryRLee/PokerHandEvaluator](https://github.com/HenryRLee/PokerHandEvaluator) (collaborator). I want to contribute much more in various fields.
 - 💬 Ask me about ... Python, [scikit-learn](https://github.com/scikit-learn/scikit-learn), intermediate-level Data Structure and Algorithms
