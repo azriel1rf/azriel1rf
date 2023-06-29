@@ -6,7 +6,6 @@
 - 💬 Ask me about ... Python, [scikit-learn](https://github.com/scikit-learn/scikit-learn), intermediate-level Data Structure and Algorithms
 - 💻 I'm using ... OS: Windows, [WSL](https://github.com/microsoft/WSL) ([Ubuntu](https://github.com/ubuntu/WSL)); shell: [zsh](https://www.zsh.org/); shell extension: [Prezto](https://github.com/sorin-ionescu/prezto); terminal: [tmux](https://github.com/tmux/tmux); package manager: [Homebrew on Linux](https://github.com/Homebrew/brew); editor: [VSCode](https://github.com/microsoft/vscode), [vim](https://github.com/vim/vim); Python environment: [pyenv](https://github.com/pyenv/pyenv), [virtualenv](https://github.com/pypa/virtualenv), [Poetry](https://github.com/python-poetry/poetry)
 - ⚡ Fun fact & Other activity: ... 
-  - With two years of activity as a trader, my performance has not been well these months. I'm looking for a job in Japan.
   - AtCoder(Programming contest): [azriel1rf](https://atcoder.jp/users/azriel1rf)
   - CodinGame(Game AI contest): [azriel1rf](https://www.codingame.com/profile/3fcdc3e3ccbbb6115d58690f04d058207556204). 124th/6867 in Spring Challenge 2021
 <!-- - 😄 Pronouns: ... az-ree-el-wuhn-er-ef -->
